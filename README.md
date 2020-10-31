@@ -8,8 +8,13 @@ Objective:
 * Create a bar chart of the top ten bacterial species in volunteer's naval. (Use JavaScript to select only the most populous species.)
 * Creat a bubble chart to visulaize the relative frequency of all the bacterial species found in a volunteer's navel.
 * Complete the demographic information panel.
-<img src ="https://github.com/914book/PyBer_Analysis/blob/master/analysis/Challenge_fare_summary.png" raw=true/>
-<img src ="https://github.com/914book/PyBer_Analysis/blob/master/analysis/Challenge_fare_summary.png" raw=true/>
-<img src ="https://github.com/914book/PyBer_Analysis/blob/master/analysis/Challenge_fare_summary.png" raw=true/>
-<img src ="https://github.com/914book/PyBer_Analysis/blob/master/analysis/Challenge_fare_summary.png" raw=true/>
-<img src ="https://github.com/914book/PyBer_Analysis/blob/master/analysis/Challenge_fare_summary.png" raw=true/>
+* Bar Chart
+<img src ="https://github.com/914book/plotly_deployment/blob/main/barchart.JPG" raw=true/>
+* Demographic Info Panel
+<img src ="https://github.com/914book/plotly_deployment/blob/main/demographic_info.JPG" raw=true/>
+* Bubble Chart
+<img src ="https://github.com/914book/plotly_deployment/blob/main/bubblechart.JPG" raw=true/>
+* Belly Button BioDiversity Dashboard
+<img src ="https://github.com/914book/plotly_deployment/blob/main/bellybutton_dashboard.JPG" raw=true/>
+* Belly Button Washing Frequency
+<img src ="https://github.com/914book/plotly_deployment/blob/main/guage%20chart.JPG" raw=true/>
